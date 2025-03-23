@@ -1,1 +1,2 @@
 Começando o projeto de git github.
+Cada commit um avanço!
